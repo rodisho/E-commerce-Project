@@ -1,3 +1,3 @@
 # E-commerce-Project
 
-## Online shopping Website
+## Grocery Online shopping site
